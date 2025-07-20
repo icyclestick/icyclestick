@@ -1,8 +1,9 @@
-# 💫 About Me:
+# 🚀 About Me:
 🔭 I’m currently working on locking in<br>👯 I’m looking to collaborate on locking in<br>🤝 I’m looking for help with locking in<br>🌱 I’m currently learning locking in<br>💬 Ask me about locking in<br>⚡ Fun fact: lock in
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blueviolet?style=for-the-badge&logo=about-dot-me)](https://(https://aisaiahsportfolio.netlify.app))
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iceaiah.alidio) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/icyclestick) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aisaiah-francis-alidio-a35492297) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aisaiahalidio@gmail.com) 
 
 # 💻 Tech Stack:
