@@ -1,5 +1,5 @@
 # 🚀 About Me:
-🔭 I’m currently working on locking in<br>👯 I’m looking to collaborate on locking in<br>🤝 I’m looking for help with locking in<br>🌱 I’m currently learning locking in<br>💬 Ask me about locking in<br>⚡ Fun fact: lock in
+🔭 I’m currently working on locking in<br>👯 I’m looking to collaborate on locking in<br>🤝 I’m looking for help with locking in<br>🌱 I’m currently learning locking in<br>💬 Ask me about locking in<br>⚡ Fun fact: lock in twin
 
 
 ## 🌐 Socials:
